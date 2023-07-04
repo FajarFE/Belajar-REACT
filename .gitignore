@@ -1,0 +1,27 @@
+# Folder node_modules
+node_modules/
+
+# File build hasil build proyek React
+build/
+
+# File cache hasil kompilasi
+.cache/
+
+# File environment local
+.env.local
+
+# File environment development
+.env.development
+
+# File environment production
+.env.production
+
+# File log
+log.txt
+
+# File editor
+*.swp
+*~
+
+# Folder coverage hasil pengujian kode
+coverage/
